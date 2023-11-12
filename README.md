@@ -8,5 +8,5 @@
 | **[Western University](https://www.uwo.ca/index.html)** | 10/27/2023 | [CBC](https://www.cbc.ca/news/canada/london/aarij-anwer-western-university-israel-hamas-war-1.7010337) |
 | **[Axel Springer SE](https://www.axelspringer.com/en/)** | 10/26/2023 | [The Intercept](https://theintercept.com/2023/10/26/axel-springer-fires-employee-israel/) |
 | **[Wix](https://www.wix.com/)** | 10/26/2023 | [Irish Mirror](https://www.irishmirror.ie/news/irish-news/fundraiser-irish-woman-wix-palestine-31287833) |
-| **[Apple &#63743;](https://www.Apple.com/)** | 11/03/2023 | [New York Post](https://www.irishmirror.ie/news/irish-news/fundraiser-irish-woman-wix-palestine-31287833](https://nypost.com/2023/11/03/business/apple-employee-who-posted-antisemitic-message-on-instagram-is-fired/)https://nypost.com/2023/11/03/business/apple-employee-who-posted-antisemitic-message-on-instagram-is-fired/) |
+| **[Apple](https://www.Apple.com/)** | 11/03/2023 | [New York Post](https://nypost.com/2023/11/03/business/apple-employee-who-posted-antisemitic-message-on-instagram-is-fired/)|
 
