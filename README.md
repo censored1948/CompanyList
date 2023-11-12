@@ -1,6 +1,6 @@
 # List of companies that have terminated an employee for their support of Palestine
 
-> 🚫 **Disclaimer**: *No report will be accepted based on a justified termination of an employee. Reviewers will ensure to differentiate between statements that criticizes Israel as a government or its officials and [antisemitic](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095417471) ones. For appealing or reporting a company, please email: someonewhocares256@gmail.com* 🚫
+> 🚫 **Disclaimer**: *Please do not make submissions for termination based on [antisemitic](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095417471) remarks or other justified reasons. We do not have a way to verify the claims made on the source website as this is a community managed repository. For appealing or reporting a company, please email: someonewhocares256@gmail.com* 🚫
 ---
 > ⚠️ Before you contribute, please read  the [contribution guide](./CONTRIBUTING.md). ⚠️
 
